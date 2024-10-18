@@ -1,0 +1,21 @@
+#title{
+    font-family: "Eras Bold ITC";
+    font-size: 40px;
+    color: darkmagenta;
+}
+#para{
+    font-size: 25px;
+    font-family: Algerian;
+    line-height: 80px;
+}
+#btn{
+    background-color: red;
+    width:120px;
+    height:50px;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+#btn:hover{
+    background-color: limegreen;
+}
